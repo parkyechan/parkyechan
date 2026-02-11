@@ -1,6 +1,10 @@
-## Hi there 👋
+## CV
 
-Info : 박예찬
+Name : Park, Ye Chan / 박예찬
+Work : Navy Officer / 대한민국 해군 학사장교
+Education : Military Information Eng., Hanyang University, Ansan, South Korea / 한양대학교 ERICA 국방정보공학과
+Certs : 정보보안기사(2020년, 16회)
+Activities : Best of the Best(8th) / 차세대보안리더 양성프로그램(8기)
 
 <!--
 **parkyechan/parkyechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
