@@ -4,7 +4,7 @@ Name : Park, Ye Chan / 박예찬
 
 Work : ROK Navy Officer for Cybersecurity / 대한민국해군 정보통신(사이버) 장교(2021 ~ now)
 
-* 아크부대 24진, 25진 / 해군작전사 CERT / 사이버작전사 Redteam / 해군 1함대사
+* 아크부대(파병, UAE-아랍에미리트) 24진, 25진 / 해군작전사 CERT / 사이버작전사 Redteam / 해군 1함대사
 
 Skills : Redteam Operations, Pentesting
 
