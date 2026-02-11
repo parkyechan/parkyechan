@@ -2,7 +2,7 @@
 
 Name : Park, Ye Chan / 박예찬
 
-Work : Navy Officer / 대한민국 해군 정보통신(사이버)장교
+Work : ROK Navy Officer for Cybersecurity / 대한민국해군 정보통신(사이버)장교
 
 Education : Military Information Eng., Hanyang University, Ansan, South Korea / 한양대학교 ERICA 국방정보공학과
 
