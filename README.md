@@ -2,13 +2,13 @@
 
 Name : Park, Ye Chan / 박예찬
 
-Work : ROK Navy Officer for Cybersecurity / 대한민국해군 정보통신(사이버)장교
+Work : ROK Navy Officer for Cybersecurity / 대한민국해군 정보통신(사이버) 장교(2021 ~ now)
 
-Education : Military Information Eng., Hanyang University, Ansan, South Korea / 한양대학교 ERICA 국방정보공학과
+Education : Military Information Eng., Hanyang University, Ansan, South Korea / 한양대학교 ERICA 국방정보공학과(2017 ~ 2021)
 
-Certs : 정보보안기사(2020년, 16회)
+Certs : 정보보안기사(2020년, KISA - 16회)
 
-Activities : Best of the Best(8th) / 차세대보안리더 양성프로그램(8기)
+Activities : Best of the Best(2019y, 8th) / 차세대보안리더 양성프로그램(2019년, 8기)
 
 <!--
 **parkyechan/parkyechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
