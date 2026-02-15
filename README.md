@@ -10,11 +10,11 @@ Skills : Redteam Operations, Pentesting
 
 Education : Military Information Eng., Hanyang University, Ansan, South Korea / 한양대학교 ERICA 국방정보공학과(2017 ~ 2021)
 
-* 특이사항 : 해군 계약학과로 졸업 후 7년 의무복무(수행 중)
+* 특이사항 : 해군 계약학과로 졸업 후 7년 의무복무(수행 중 / 2021. 6. ~ 2028. 5.)
 
 Certs : 정보보안기사(2020년, KISA - 16회)
 
-Activities : Best of the Best(2019y, 8th) / 차세대보안리더 양성프로그램(2019년, 8기)
+Activities : Best of the Best(8th) / 차세대보안리더 양성프로그램(8기) (2019. 7. ~ 2020. 3.)
 
 <!--
 **parkyechan/parkyechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
