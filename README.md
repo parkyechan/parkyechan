@@ -1,8 +1,6 @@
 ## CV
 
-Name : Park, Ye Chan / 박예찬
-
-- contact : comma-huddle-level@duck.com
+Name : Park, Ye Chan / 박예찬 (email : comma-huddle-level [*at] duck [*dot] com)
 
 Work : ROK(South Korea) Navy Officer for Cybersecurity / 대한민국해군 정보통신(사이버) 장교(2021 ~ now)
 
