@@ -20,7 +20,7 @@ Skills : Redteam Operations, Pentesting
 
 <br>
 
-Certs : 정보보안기사(2020년, KISA - 16회)
+Certs : 정보보안기사(2020. 12., KISA 16회)
 
 <br>
 
