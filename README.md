@@ -10,13 +10,13 @@ Work : ROK(South Korea) Navy Officer for Cybersecurity / 대한민국해군 정�
 
 <br>
 
-Skills : Redteam Operations, Pentesting
-
-<br>
-
 Education : Military Information Eng., Hanyang University, Ansan, South Korea / 한양대학교 ERICA 국방정보공학과(2017 ~ 2021)
 
 > 특이사항 : 해군 계약학과로 졸업 후 7년 의무복무(수행 중 / 2021. 6. ~ 2028. 5.)
+
+<br>
+
+Skills : Redteam Operations, Pentesting
 
 <br>
 
