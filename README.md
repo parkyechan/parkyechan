@@ -14,7 +14,10 @@ Work : ROK(South Korea) Navy Officer for Cybersecurity | 대한민국해군 정�
 
 Education : Military Information Eng., Hanyang University, Ansan, South Korea | 한양대학교 ERICA 국방정보공학과(2017 ~ 2021)
 
-> 특이사항 : 해군 계약학과로 졸업 후 7년 의무복무(수행 중, 2021 ~ 2028)
+> Note : 해군 계약학과로 졸업 후 7년 의무복무(수행 중, 2021 ~ 2028) <br>
+> Best of the Best(8th) | 차세대보안리더 양성프로그램(8기) (Jul 2019 ~ Mar 2020)<br>
+> DGIST Data Lab., Undergraduate Research Intern (Jan 2020 ~ Feb 2020)<br>
+> Hanyang Univ., System Security Lab., Undergraduate Research Intern (Apr 2020 ~ Oct 2020)
 
 <br>
 
@@ -23,10 +26,6 @@ Skills : Redteam Operations, Pentesting
 <br>
 
 Certs : 정보보안기사(Dec 2020, KISA 16회)
-
-<br>
-
-Activities : Best of the Best(8th) | 차세대보안리더 양성프로그램(8기) (Jul 2019 ~ Mar 2020)
 
 <!--
 **parkyechan/parkyechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
