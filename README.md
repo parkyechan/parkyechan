@@ -1,43 +1,11 @@
-## CV
+## About Me
 
-Name : Park, Ye Chan | 박예찬 
+<b>Park, Ye Chan</b>
 
-> email : comma-huddle-level [*at] duck [*dot] com
+Work on Cyber Operations Officer at the Republic of Korea Navy
 
-<br>
+B.S. in Military Information Engineering & Computer Sciences, Hanyang University ERICA  
 
-Work : ROK(South Korea) Navy Officer for Cybersecurity | 대한민국해군 정보통신(사이버) 장교(2021 ~ now)
+Focused on offensive security, adversary simulation, and internal red teaming.
 
-> 아크부대(파병, UAE-아랍에미리트) 24/25진, 해군작전사CERT, 사이버작전사RedTeam, 해군1함대사
-
-<br>
-
-Education : Military Information Eng., Hanyang University, Ansan, South Korea | 한양대학교 ERICA 국방정보공학과(2017 ~ 2021)
-
-> Note : 해군 계약학과로 졸업 후 7년 의무복무(수행 중, 2021 ~ 2028) <br>
-> Best of the Best(8th) | 차세대보안리더 양성프로그램(8기) (Jul 2019 ~ Mar 2020)<br>
-> DGIST Data Lab., Undergraduate Research Intern (Jan 2020 ~ Feb 2020)<br>
-> Hanyang Univ., System Security Lab., Undergraduate Research Intern (Apr 2020 ~ Oct 2020)
-
-<br>
-
-Skills : Redteam Operations, Pentesting
-
-<br>
-
-Certs : 정보보안기사(Dec 2020, KISA 16회)
-
-<!--
-**parkyechan/parkyechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact : widow-trash-attain [*at] duck [*dot] com
