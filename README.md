@@ -4,6 +4,6 @@
 
 Work on Cyber Operations Officer at the Republic of Korea Navy
 
-B.S. in Military Information Engineering & Computer Sciences, Hanyang University ERICA  
+B.S. Hanyang University ERICA  
 
 Focused on offensive security, adversary simulation, and internal red teaming.
