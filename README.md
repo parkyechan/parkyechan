@@ -2,8 +2,8 @@
 
 <b>Park, Ye Chan</b> [ [linkedin](https://www.linkedin.com/in/parkyechan/) / [email](mailto:tibia-punk-overlay@duck.com) ]
 
-Work on Cyber Operations Officer at the Republic of Korea Navy
+<b>Work</b> : Cyber Operations Officer at the Republic of Korea Navy (2021 ~ now)
 
-B.S. Hanyang University (Ansan, South Korea)  
+<b>Education</b>: B.S. in Hanyang University (Ansan, South Korea)
 
-Focused on offensive security, and red teaming.
+<b>Focus</b>: Offensive Security & Red Teaming
