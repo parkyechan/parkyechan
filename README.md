@@ -4,6 +4,6 @@
 
 <b>Work</b> : Cyber Operations Officer at the Republic of Korea Navy (2021 ~ now)
 
-<b>Education</b>: B.S. in Hanyang University (a.k.a. ERICA / Ansan, South Korea)
+<b>Education</b>: B.S. in Hanyang University, Ansan, South Korea
 
 <b>Focus</b>: Offensive Security & Red Teaming
