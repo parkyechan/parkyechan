@@ -4,6 +4,6 @@
 
 Work on Cyber Operations Officer at the Republic of Korea Navy
 
-B.S. Hanyang University(Ansan, South Korea)  
+B.S. Hanyang University (Ansan, South Korea)  
 
 Focused on offensive security, and red teaming.
