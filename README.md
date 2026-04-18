@@ -4,6 +4,6 @@
 
 Navy Officer(South Korea) | B.S. in Hanyang ERICA(Feb 2021) | BoB(8th)
 
-Offensive Security & Red Teaming
+Offensive Security(AppSec, RedOps)
 
 Certs : OSCP+(Offsec) | 정보보안기사(KISA, 16th)
